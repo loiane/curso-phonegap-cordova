@@ -1,0 +1,68 @@
+2016-02-23 10:39:07.089 HelloWorldPhonegap[7367:5196579] Apache Cordova native platform version 3.9.2 is starting.
+2016-02-23 10:39:07.094 HelloWorldPhonegap[7367:5196579] Multi-tasking -> Device: YES, App: YES
+2016-02-23 10:39:07.126 HelloWorldPhonegap[7367:5196579] Unlimited access to network resources
+2016-02-23 10:39:07.138 HelloWorldPhonegap[7367:5196579] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-02-23 10:39:08.313 HelloWorldPhonegap[7367:5196579] Resetting plugins due to page load.
+2016-02-23 10:39:08.696 HelloWorldPhonegap[7367:5196579] Finished load of: file:///Users/loiane/Library/Developer/CoreSimulator/Devices/54C11894-8A68-49D1-9C73-01175BFB23B6/data/Containers/Bundle/Application/DC30A920-4307-4751-8AF0-E85CEACF67C3/HelloWorldPhonegap.app/www/index.html
+2016-02-23 10:50:58.112 HelloWorldPhonegap[8025:5244537] Apache Cordova native platform version 3.9.2 is starting.
+2016-02-23 10:50:58.114 HelloWorldPhonegap[8025:5244537] Multi-tasking -> Device: YES, App: YES
+2016-02-23 10:50:58.129 HelloWorldPhonegap[8025:5244537] Unlimited access to network resources
+2016-02-23 10:50:58.141 HelloWorldPhonegap[8025:5244537] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-02-23 10:50:58.863 HelloWorldPhonegap[8025:5244537] Resetting plugins due to page load.
+2016-02-23 10:50:59.024 HelloWorldPhonegap[8025:5244537] Finished load of: file:///Users/loiane/Library/Developer/CoreSimulator/Devices/54C11894-8A68-49D1-9C73-01175BFB23B6/data/Containers/Bundle/Application/B00FF31E-9815-4F97-A411-1F5679FB05E9/HelloWorldPhonegap.app/www/index.html
+2016-02-23 10:55:12.225 HelloWorldPhonegap[8025:5247398] XPC connection interrupted
+2016-02-23 10:55:12.225 HelloWorldPhonegap[8025:5247399] Terminating since there is no system app.
+2016-02-23 11:31:48.461 HelloWorldPhonegap[8670:5330400] Apache Cordova native platform version 3.9.2 is starting.
+2016-02-23 11:31:48.463 HelloWorldPhonegap[8670:5330400] Multi-tasking -> Device: YES, App: YES
+2016-02-23 11:31:48.476 HelloWorldPhonegap[8670:5330400] Unlimited access to network resources
+2016-02-23 11:31:48.489 HelloWorldPhonegap[8670:5330400] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-02-23 11:31:49.204 HelloWorldPhonegap[8670:5330400] Resetting plugins due to page load.
+2016-02-23 11:31:49.369 HelloWorldPhonegap[8670:5330400] Finished load of: file:///Users/loiane/Library/Developer/CoreSimulator/Devices/54C11894-8A68-49D1-9C73-01175BFB23B6/data/Containers/Bundle/Application/EA1C989B-D60A-4FF2-9188-D9B589DD6AEE/HelloWorldPhonegap.app/www/index.html
+2016-02-23 12:11:54.744 HelloWorldPhonegap[8994:5388608] Apache Cordova native platform version 3.9.2 is starting.
+2016-02-23 12:11:54.748 HelloWorldPhonegap[8994:5388608] Multi-tasking -> Device: YES, App: YES
+2016-02-23 12:11:54.762 HelloWorldPhonegap[8994:5388608] Unlimited access to network resources
+2016-02-23 12:11:54.788 HelloWorldPhonegap[8994:5388608] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-02-23 12:11:55.749 HelloWorldPhonegap[8994:5388608] Resetting plugins due to page load.
+2016-02-23 12:11:56.051 HelloWorldPhonegap[8994:5388608] Finished load of: file:///Users/loiane/Library/Developer/CoreSimulator/Devices/54C11894-8A68-49D1-9C73-01175BFB23B6/data/Containers/Bundle/Application/C75B36F5-5B67-42AA-82CE-0C66C010913E/HelloWorldPhonegap.app/www/index.html
+2016-02-23 12:32:10.798 HelloWorldPhonegap[957:47936] Apache Cordova native platform version 3.9.2 is starting.
+2016-02-23 12:32:10.800 HelloWorldPhonegap[957:47936] Multi-tasking -> Device: YES, App: YES
+2016-02-23 12:32:10.813 HelloWorldPhonegap[957:47936] Unlimited access to network resources
+2016-02-23 12:32:10.825 HelloWorldPhonegap[957:47936] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2016-02-23 12:32:11.544 HelloWorldPhonegap[957:47936] Resetting plugins due to page load.
+2016-02-23 12:32:11.710 HelloWorldPhonegap[957:47936] Finished load of: file:///Users/loiane/Library/Developer/CoreSimulator/Devices/54C11894-8A68-49D1-9C73-01175BFB23B6/data/Containers/Bundle/Application/DDA9D555-4D24-419B-9237-BCF965E5BCEE/HelloWorldPhonegap.app/www/index.html
+2016-02-23 12:32:18.537 HelloWorldPhonegap[957:48141] XPC connection interrupted
