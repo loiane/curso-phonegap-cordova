@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.phonegap.helloworld" version="1.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
+    <feature name="Device">
+        <param name="browser-package" value="Device" />
+    </feature>
+    <name>Hello World</name>
+    <description>
+        A PhoneGap app with JQuery Mobile integration.
+    </description>
+    <author href="http://loiane.com">
+        Loiane Groner
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>

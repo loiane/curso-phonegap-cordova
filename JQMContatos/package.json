@@ -1,0 +1,21 @@
+{
+  "name": "jquerymobile-phonegap-template",
+  "version": "1.0.0",
+  "description": "template for phonegap and cordova projects using JQuery Mobile",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loiane/jquerymobile-phonegap-template.git"
+  },
+  "keywords": [
+    "ecosystem:phonegap",
+    "ecosystem:cordova",
+    "cordova:template",
+    "phonegap:template"
+  ],
+  "author": "Loiane Groner",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/loiane/jquerymobile-phonegap-template/issues"
+  },
+  "homepage": "https://github.com/loiane/jquerymobile-phonegap-template#readme"
+}
