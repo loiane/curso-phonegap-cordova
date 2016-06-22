@@ -1,0 +1,12 @@
+<ion-view view-title="Example: CORS disabled">
+  <ion-content class="padding">
+      <button class="button button-positive" ng-click="loadCountries()">
+          Load Countries
+      </button>
+      <ion-list>
+          <ion-item ng-repeat="country in countries">
+              {{country}}
+          </ion-item>
+      </ion-list>
+  </ion-content>
+</ion-view>
